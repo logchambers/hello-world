@@ -1,0 +1,9 @@
+//This is a HelloWorld program
+
+public static void main (String[] args)
+{
+  public class HelloWorld
+  {
+    System.out.println("Hello world");
+  }
+}
